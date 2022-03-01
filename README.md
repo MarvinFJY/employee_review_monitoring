@@ -58,11 +58,11 @@ In conclusion, through this project, we hoped to save man-hours of HR staffs or 
 
 Machine Learning model results:
 
-![alt](../assets/ml_results.png)
+![alt](/assets/ml_results.png)
 
 RNN-LSTM model results:
 
-<img src="../assets/dl_results.png" width="500" height="100">
+<img src="/assets/dl_results.png" width="500" height="100">
 
 
 Looking at the results above, Logistic Regression model with TFIDF-Vectorizer had performed the best overall. Hence, we will be choosing it as our production model for predicting sentiment of reviews from employees.
