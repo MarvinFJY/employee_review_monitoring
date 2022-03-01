@@ -62,7 +62,7 @@ Machine Learning model results:
 
 RNN-LSTM model results:
 
-<img src="/assets/dl_results.png" width="500" height="100">
+![alt](/assets/dl_results.png)
 
 
 Looking at the results above, Logistic Regression model with TFIDF-Vectorizer had performed the best overall. Hence, we will be choosing it as our production model for predicting sentiment of reviews from employees.
